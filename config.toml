@@ -1,7 +1,7 @@
 baseURL = "https://julieolin.github.io/week8/"
 languageCode = "en-us"
 title = "AirBnB in New York"
-theme = "ananke"
+theme = "researcher"
 publishDir = "docs"
 canonifyURLs = true
 
