@@ -1,6 +1,6 @@
 baseURL = "https://julieolin.github.io/week8/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "AirBnB in New York"
 theme = "ananke"
 publishDir = "docs"
 canonifyURLs = true
