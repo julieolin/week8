@@ -1,4 +1,4 @@
-# Social Data Analysis 2021
+# AirBnB in New York City
 
 ### By Julie Olin, Julian Skovhus & Mik Lokdam
 
