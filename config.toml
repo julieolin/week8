@@ -5,6 +5,33 @@ theme = "ananke"
 publishDir = "docs"
 canonifyURLs = true
 
-[params]
-    description = "Social Data Analysis 2021"
+disableKinds = ["taxonomy", "term"]
+enableEmoji = true
+math = true          # enable KaTeX (https://katex.org/) globally
 
+[params]
+  author = "Olivier Roques"
+  description = "Social Data Analysis 2021"
+  favicon = "favicon.ico"  # path to a .ico to use as favicon
+  #logo = ""  # url or path to a logo to put in the header
+  [params.footer]
+    text = "By Olivier Roques"
+    url = "https://github.com/ojroques/hugo-researcher"
+  [params.style]  # appearance options (can be omitted)
+    fontFamily = "Inconsolata"
+    pageWidth = "750px"
+    avatarSize = "90px"
+    colorBlack = "#222222"
+    colorRed = "#dc3545"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "Main"
+    url = "/main"
+    weight = 1
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
