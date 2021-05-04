@@ -10,13 +10,12 @@ enableEmoji = true
 math = true          # enable KaTeX (https://katex.org/) globally
 
 [params]
-  author = "Olivier Roques"
+  author = "Julie, Julian, Mik"
   description = "Social Data Analysis 2021"
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   #logo = ""  # url or path to a logo to put in the header
   [params.footer]
-    text = "By Olivier Roques"
-    url = "https://github.com/ojroques/hugo-researcher"
+    text = "Social Data Analysis 2021"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "750px"
