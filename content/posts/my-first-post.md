@@ -1,7 +1,8 @@
 ---
-title: "My First Post1"
+title: "Social Data Analysis 2021"
+subtitle: "Julie Olin, Julian Skovhus & Mik Lokdom"
 date: 2021-03-27T11:56:32+01:00
 draft: false
 ---
-Det er nok den værste guide jeg nogensinde har læst. Sune burde have testet lortet før han opffentliggjotde den til studerende.
+Our idea is to look at geographical data around parties and AirBnBs in New York to determine if there’s a correlation between the two and if so, which kind.
 ![dtu](/images/boi.jpg)
