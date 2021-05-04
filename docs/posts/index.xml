@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Mar 2021 11:56:32 +0100</lastBuildDate><atom:link href="https://julieolin.github.io/week8/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post1</title>
+      <title>Social Data Analysis 2021</title>
       <link>https://julieolin.github.io/week8/posts/my-first-post/</link>
       <pubDate>Sat, 27 Mar 2021 11:56:32 +0100</pubDate>
       
       <guid>https://julieolin.github.io/week8/posts/my-first-post/</guid>
-      <description>Det er nok den værste guide jeg nogensinde har læst. Sune burde have testet lortet før han opffentliggjotde den til studerende. </description>
+      <description>Our idea is to look at geographical data around parties and AirBnBs in New York to determine if there’s a correlation between the two and if so, which kind. </description>
     </item>
     
   </channel>
