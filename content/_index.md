@@ -54,12 +54,9 @@ To answer this, let us start out with some basic stats to outline some differenc
 </tbody>
 </table>
 
-One thing to notice is Manhattan and Brooklyn. All though Manhattan and Brooklyn 
+One thing to notice is Manhattan and Brooklyn. AlThough Manhattan and Brooklyn make up 50% of the total population in NYC, they make up more than 85% of the total AirBnB listings. This indicate these boroughs are attractive to tourists. Not surspringly, because who wouldn't stay near the iconic Brooklyn Bridge or Times Square, 'the center of the world'?
 
-
-
-
-
+![violinplots_boroughs](fig1.png)
 
 <iframe src="ny_map.html"
     sandbox="allow-same-origin allow-scripts"
