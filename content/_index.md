@@ -11,9 +11,9 @@ To answer this, let us start out with some basic stats to outline some differenc
 <style type="text/css">
 .tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+  font-family:Inconsolata , sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+  font-family:Inconsolata , sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
@@ -27,32 +27,39 @@ To answer this, let us start out with some basic stats to outline some differenc
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Manhattan</td>
+    <td class="tg-fymr">Manhattan</td>
     <td class="tg-0pky">1.593.200 (19%)</td>
     <td class="tg-0pky">21.661 (44,3%)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Brooklyn</td>
+    <td class="tg-fymr">Brooklyn</td>
     <td class="tg-0pky">2.511.408 (31%)</td>
     <td class="tg-0pky">20.104 (41,1%)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Queens</td>
+    <td class="tg-fymr">Queens</td>
     <td class="tg-0pky">2.256.576 (28%)</td>
     <td class="tg-0pky">5.666 (11,6%)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Bronx</td>
+    <td class="tg-fymr">Bronx</td>
     <td class="tg-0pky">1.364.566 (17%)</td>
     <td class="tg-0pky">1091 (2,2%)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Statens Island</td>
+    <td class="tg-fymr">Statens Island</td>
     <td class="tg-0pky">475.014 (6%)</td>
     <td class="tg-0pky">373 (0,8%)</td>
   </tr>
 </tbody>
 </table>
+
+One thing to notice is Manhattan and Brooklyn. All though Manhattan and Brooklyn 
+
+
+
+
+
 
 <iframe src="ny_map.html"
     sandbox="allow-same-origin allow-scripts"
