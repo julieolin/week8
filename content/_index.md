@@ -6,7 +6,17 @@ AirBnB is an online platform that provides private hosts accommodate guests with
 
 In New York City (NYC), more than 48.000 listings were available for rent in 2019. Listings ranging from a whole penthouse apartment with panorama view over Central Park to a shared bedroom in Brooklyn fullfill the need for any traveller. As a tourist,it may be overwhelming choosing a place to stay in NYC, as NYC is a very diverse city with 5 boroughs. Also, each borough contains serveral districts, each with their own charm and caracteristics. Should it be the posh Manhattan, the hip Bronx or the cultural Brooklyn?
 
-To answer this, let us start out with some basic stats to outline some differences between the 5 boroughs.
+To answer this, let us start out with some basic stats to outline some differences between the 5 boroughs. The listings are distributed as follow:
+
+|Borough|Residents|AirBnB listings|
+|--- |--- |--- |
+|Manhattan|1.593.200 (19%)|21.661 (44,3%)|
+|Brooklyn|2.511.408 (31%)|20.104 (41,1%)|
+|Queens|2.256.576 (28%)|5.666 (11,6%)|
+|Bronx|1.364.566 (17%)|1091 (2,2%)|
+|Statens Island|475.014 (6%)|373 (0,8%)|
+
+
 
 <iframe src="ny_map.html"
     sandbox="allow-same-origin allow-scripts"
