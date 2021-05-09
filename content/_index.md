@@ -4,7 +4,7 @@
 
 AirBnB is an online platform that provides private hosts accommodate guests with short-term lodging, primarily homestays for vacation rentals. AirBnB is founded by Brian Chesky and launched in August 2008. Since then AirBnB has experienced an exponential growth and accounts for upwards of 20% of the vacation rental industry as a whole.
 
-In New York City (NYC), more than 48.000 listings were available for rent in 2019. Listings ranging from a whole penthouse apartment with panorama view over Central Park to a shared bedroom in Brooklyn fullfill the need for any traveller. As a tourist,it may be overwhelming choosing a place to stay in NYC, as NYC is a very diverse city with 5 boroughs. Also, each borough contains serveral districts, each with their own charm and caracteristics. Should it be the posh Manhattan, the hip Bronx or the cultural Brooklyn?
+In New York City (NYC), more than 48.000 listings were available for rent in 2019. Listings ranging from a whole penthouse apartment with panorama view over Central Park to a shared bedroom in Brooklyn fullfill the need for any traveller. As a tourist, it may be overwhelming choosing a place to stay in NYC, as NYC is a very diverse city with 5 boroughs. Also, each borough contains serveral districts, each with their own charm and caracteristics. Should it be the posh Manhattan, the hip Bronx or the cultural Brooklyn?
 
 To answer this, let us start out with some basic stats to outline some differences between the 5 boroughs. The listings are distributed as follow:
 
@@ -54,9 +54,13 @@ To answer this, let us start out with some basic stats to outline some differenc
 </tbody>
 </table>
 
-One thing to notice is Manhattan and Brooklyn. AlThough Manhattan and Brooklyn make up 50% of the total population in NYC, they make up more than 85% of the total AirBnB listings. This indicate these boroughs are attractive to tourists. Not surspringly, because who wouldn't stay near the iconic Brooklyn Bridge or Times Square, 'the center of the world'?
+One thing to notice is Manhattan and Brooklyn. Although Manhattan and Brooklyn make up 50% of the total population in NYC, they make up more than 85% of the total AirBnB listings. This indicate these boroughs are attractive to tourists. Not surspringly, because who wouldn't stay near the iconic Brooklyn Bridge or Times Square, 'the center of the world'?
 
-![violinplots_boroughs](images/fig1.png){width=60% }
+Looking at price differences, Manhattan is definitely also the most expensive borough, while Brooklyn follows approx. the same price pattern as the other boroughs. 
+
+![violinplots_boroughs](images/fig1.png)
+
+Manhattan is what the most tourists associate with NYC and are almost a synonym to NYC. Manhattan houses the most tourist attractions in NYC - Times Square, Central Park, Empire State Building, Wall Street, Statue of Liberty only to mention some. As a matter of fact, it may be convenient to stay at Manhattan to get the full NYC experience as a tourist. So let's take a deeper look into Manhattan.
 
 <iframe src="ny_map.html"
     sandbox="allow-same-origin allow-scripts"
