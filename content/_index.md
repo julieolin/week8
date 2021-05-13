@@ -63,17 +63,22 @@ Looking at price differences visualised below, it is clear that Manhattan is als
 The majority of tourists associate with NYC with Manhattan, making the two almost synonymous. Manhattan also houses the most tourist attractions in NYC - Times Square, Central Park, Empire State Building, Wall Street, Statue of Liberty just to mention a few. Since Manhattan has the most AirBnB listings and a myriad of tourist attraction, it's a hotspot for tourism. 
 
 Let's take a deeper look into Manhattan.
+
 Manhattan also houses many neighbourhoods. Below is a map of Manhattan and where the 32 neighbourhoods are located.
 
-![man_map_static](images/fig3.png)
+<iframe src="ny_map.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 
 Ranging from Battery Park City in the very South to Marble Hill in the North, each neighbourhood has different characteristics regarding the price and availability of AirBnBs. 
 
 The map below show the average rent price for AirBnBs in a given neighbourhood and by moving the mouse cursor over one the neighbourhood, more information such as the name of the neighbourhood and number of AirBnBs per square kilometre. 
 
-Mean prices 
-![price_ranges](images/fig2.png)
-We here see Tribeca in the lower Manhattan is defintely an expensive place  Tribeca and the area around 
 
 <iframe src="mymap.html"
     sandbox="allow-same-origin allow-scripts"
@@ -84,5 +89,9 @@ We here see Tribeca in the lower Manhattan is defintely an expensive place  Trib
     frameborder="0">
 </iframe>
 
-Neighbourhoods in the northern parts of Manhattan has lower average rent prices for AirBnBs, whereas neighbourhoods south of Central park has the most expensive AirBnBs.
+Neighbourhoods in the northern parts of Manhattan has lower average rent prices for AirBnBs, whereas neighbourhoods south of Central park has the most expensive AirBnBs. The histogram below show how Tribeca is significantly most expensive neighbourhood to rent an AirBnB in.
 
+Mean prices 
+![price_ranges](images/fig2.png)
+
+Tribeca became an exclusive living area due to a substitution of industrial companies with artistic civilians during the 1960-70s. Today, Tribeca is known for it's many celebrities who recides in the neighbourhood and enjoy luxury living in relatively quieter sorroundings.
