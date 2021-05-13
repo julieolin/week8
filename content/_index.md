@@ -60,7 +60,7 @@ Looking at price differences visualised below, it is clear that Manhattan is als
 
 ![violinplots_boroughs](images/fig1.png)
 
-Manhattan is what the most tourists associate with NYC and are almost a synonym to NYC. Manhattan houses the most tourist attractions in NYC - Times Square, Central Park, Empire State Building, Wall Street, Statue of Liberty only to mention some. As a matter of fact, it may be convenient to stay at Manhattan to get the full NYC experience as a tourist. So let's take a deeper look into Manhattan.
+The majority of tourists associate with NYC with Manhattan, making the two almost synonymous. Manhattan also houses the most tourist attractions in NYC - Times Square, Central Park, Empire State Building, Wall Street, Statue of Liberty just to mention a few. As a matter of fact, it may be convenient to stay at Manhattan to get the full NYC experience as a tourist. So let's take a deeper look into Manhattan.
 
 <iframe src="ny_map.html"
     sandbox="allow-same-origin allow-scripts"
