@@ -73,8 +73,8 @@ Manhattan also houses many neighbourhoods. Below, a map of Manhattan and where t
 </iframe>
 
 Mean prices 
+![price_ranges](images/fig2.png)
 
-![price_ranges_manhattan](images/skæ)
 
 <iframe src="mymap.html"
     sandbox="allow-same-origin allow-scripts"
