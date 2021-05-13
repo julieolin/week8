@@ -92,6 +92,16 @@ The map below show the average rent price for AirBnBs in a given neighbourhood a
 Neighbourhoods in the northern parts of Manhattan has lower average rent prices for AirBnBs, whereas neighbourhoods south of Central park has the most expensive AirBnBs. The histogram below show how Tribeca is significantly most expensive neighbourhood to rent an AirBnB in.
 
 Mean prices 
-![price_ranges](images/fig2.png)
+![price_ranges](images/mean_price.png)
 
 Tribeca became an exclusive living area due to a substitution of industrial companies with artistic civilians during the 1960-70s. Today, Tribeca is known for it's many celebrities who recides in the neighbourhood and enjoy luxury living in relatively quieter sorroundings.
+
+
+<iframe src="mapcluster.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
