@@ -70,7 +70,7 @@ Let's take a deeper look into Manhattan.
 
 Manhattan also houses many neighbourhoods. Ranging from Battery Park City in the very South to Marble Hill in the North, each neighbourhood has different characteristics regarding the price and availability of AirBnBs. 
 
-The map below show the average rent price for AirBnBs in a given neighbourhood and by moving the mouse cursor over one the neighbourhood, more information such as the name of the neighbourhood and number of AirBnBs per square kilometre. 
+The map below show the average rent price for AirBnBs in a given neighbourhood and by moving the mouse cursor over one the neighbourhood, more information such as the name of the neighbourhood and number of AirBnBs per square kilometre. If you wonder why there is a big uncoloured square in the middle, this is the iconic Central Park. Huge park, very great park, you should try it! 
 
 <iframe src="mymap.html"
     sandbox="allow-same-origin allow-scripts"
@@ -84,14 +84,13 @@ The map below show the average rent price for AirBnBs in a given neighbourhood a
 From the map we see that neighbourhoods in the upper Manhattan has lower average rent prices for AirBnBs, whereas neighbourhoods in the lower Manhattan and around the Central park has the most expensive AirBnBs. But why though? 
 Looking at the neighborhoods that makes up the nothern part of Manhatten, the neighbourhood Harlem dominates. Harlem is formerly known as a ghetto and was back then a very poor and trobuled area with high crime rates. Today, Harlem has bloomed and the neighbourhood is today a very hip place with great vibes. But of course the area is still behind on some parameters compared to other neighbourhoods due to the history. 
 
-On the other side of the spectrum, Tribeca is to find. The histogram below show how Tribeca is significantly most expensive neighbourhood to rent an AirBnB in. If you wonder why there is a big uncoloured square in the middle, this is the iconic Central Park. Huge park, very great park, you should try it! 
+On the other side of the spectrum in the lower Manhattan, Tribeca is to find. The histogram below show how Tribeca is significantly most expensive neighbourhood to rent an AirBnB in. 
 
-Mean prices 
 ![price_ranges](images/fig4.png)
 
 Tribeca became an exclusive living area due to a substitution of industrial companies with artistic civilians during the 1960-70s. Today, Tribeca is known for it's many celebrities who recides in the neighbourhood and enjoy luxury living in relatively quieter sorroundings.
 
-Now we have had a small introduction to Manhattan. So witch AirBnB to choose? Below, all AirBnB locations is plotted to the map. By using the zoom-function, the map is able to provide the exact location, price pr. night and a small description of the AirBnB place. Try it and may you explore some hidden gems of AirBnB rentals!
+Now we have had a small introduction to Manhattan. So which AirBnB to choose? Below, all AirBnB locations is plotted to the map. By using the zoom-function, the map is able to provide the exact location, price pr. night and a small description of the AirBnB place. Try it and may you explore some hidden gems of AirBnB rentals!
 
 <iframe src="mapcluster_final1.html"
     sandbox="allow-same-origin allow-scripts"
