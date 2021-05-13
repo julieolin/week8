@@ -93,3 +93,5 @@ We here see Tribeca in the lower Manhattan is defintely an expensive place  Trib
 </iframe>
 
 Neighbourhoods in the northern parts of Manhattan has lower average rent prices for AirBnBs, whereas neighbourhoods south of Central park has the most expensive AirBnBs.
+
+hej
