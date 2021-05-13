@@ -72,12 +72,8 @@ Manhattan also houses many neighbourhoods. Below, a map of Manhattan and where t
     frameborder="0">
 </iframe>
 
-<<<<<<< HEAD
-
-=======
 Mean prices 
 ![price_ranges_manhattan](images/price_ranges_neighbourhood.png)
->>>>>>> 8ec1e8911a5404c9f655589fb7ebfe18a86e05d4
 
 <iframe src="mymap.html"
     sandbox="allow-same-origin allow-scripts"
