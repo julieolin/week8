@@ -63,17 +63,9 @@ Looking at price differences visualised below, it is clear that Manhattan is als
 The majority of tourists associate with NYC with Manhattan, making the two almost synonymous. Manhattan also houses the most tourist attractions in NYC - Times Square, Central Park, Empire State Building, Wall Street, Statue of Liberty just to mention a few. Since Manhattan has the most AirBnB listings and a myriad of tourist attraction, it's a hotspot for tourism. 
 
 Let's take a deeper look into Manhattan.
-
 Manhattan also houses many neighbourhoods. Below is a map of Manhattan and where the 32 neighbourhoods are located.
 
-<iframe src="ny_map.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="500"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+![man_map_static](images/fig3.png)
 
 Ranging from Battery Park City in the very South to Marble Hill in the North, each neighbourhood has different characteristics regarding the price and availability of AirBnBs. 
 
@@ -94,4 +86,3 @@ We here see Tribeca in the lower Manhattan is defintely an expensive place  Trib
 
 Neighbourhoods in the northern parts of Manhattan has lower average rent prices for AirBnBs, whereas neighbourhoods south of Central park has the most expensive AirBnBs.
 
-hej
