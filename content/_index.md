@@ -80,7 +80,8 @@ Ranging from Battery Park City in the very South to Marble Hill in the North, ea
 The map below show the average rent price for AirBnBs in a given neighbourhood and by moving the mouse cursor over one the neighbourhood, more information such as the name of the neighbourhood and number of AirBnBs per square kilometre. 
 
 Mean prices 
-![price_ranges_manhattan](images/price_ranges_neighbourhood.png)
+![price_ranges](images/fig2.png)
+
 
 <iframe src="mymap.html"
     sandbox="allow-same-origin allow-scripts"
