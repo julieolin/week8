@@ -60,7 +60,7 @@ Looking at price differences visualised below, it is clear that Manhattan is als
 
 ![violinplots_boroughs](images/fig1.png)
 
-The majority of tourists associate with NYC with Manhattan, making the two almost synonymous. Manhattan also houses the most tourist attractions in NYC - Times Square, Central Park, Empire State Building, Wall Street, Statue of Liberty just to mention a few. As a matter of fact, it may be convenient to stay at Manhattan to get the full NYC experience as a tourist. So let's take a deeper look into Manhattan.
+The majority of tourists associate with NYC with Manhattan, making the two almost synonymous. Manhattan also houses the most tourist attractions in NYC - Times Square, Central Park, Empire State Building, Wall Street, Statue of Liberty just to mention a few. Since Manhattan has the most AirBnB listings and a myriad of tourist attraction, it's a hotspot for tourism. Let's take a deeper look into Manhattan.
 
 <iframe src="ny_map.html"
     sandbox="allow-same-origin allow-scripts"
@@ -71,7 +71,8 @@ The majority of tourists associate with NYC with Manhattan, making the two almos
     frameborder="0">
 </iframe>
 
-bla bla bla
+
+
 <iframe src="mymap.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -80,3 +81,5 @@ bla bla bla
     seamless="seamless"
     frameborder="0">
 </iframe>
+
+hej
