@@ -60,9 +60,12 @@ Looking at price differences visualised below, it is clear that Manhattan is als
 
 ![violinplots_boroughs](images/fig1.png)
 
-The majority of tourists associate with NYC with Manhattan, making the two almost synonymous. Manhattan also houses the most tourist attractions in NYC - Times Square, Central Park, Empire State Building, Wall Street, Statue of Liberty just to mention a few. Since Manhattan has the most AirBnB listings and a myriad of tourist attraction, it's a hotspot for tourism. Let's take a deeper look into Manhattan.
+The majority of tourists associate with NYC with Manhattan, making the two almost synonymous. Manhattan also houses the most tourist attractions in NYC - Times Square, Central Park, Empire State Building, Wall Street, Statue of Liberty just to mention a few. Since Manhattan has the most AirBnB listings and a myriad of tourist attraction, it's a hotspot for tourism. 
 
-Manhattan also houses many neighbourhoods. Below, a map of Manhattan and where the neighbourhoods are located.
+Let's take a deeper look into Manhattan.
+
+Manhattan also houses many neighbourhoods. Below is a map of Manhattan and where the 32 neighbourhoods are located.
+
 <iframe src="ny_map.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -71,6 +74,10 @@ Manhattan also houses many neighbourhoods. Below, a map of Manhattan and where t
     seamless="seamless"
     frameborder="0">
 </iframe>
+
+Ranging from Battery Park City in the very South to Marble Hill in the North, each neighbourhood has different characteristics regarding the price and availability of AirBnBs. 
+
+The map below show the average rent price for AirBnBs in a given neighbourhood and by moving the mouse cursor over one the neighbourhood, more information such as the name of the neighbourhood and number of AirBnBs per square kilometre. 
 
 Mean prices 
 ![price_ranges_manhattan](images/price_ranges_neighbourhood.png)
@@ -83,3 +90,5 @@ Mean prices
     seamless="seamless"
     frameborder="0">
 </iframe>
+
+Neighbourhoods in the northern parts of Manhattan has lower average rent prices for AirBnBs, whereas neighbourhoods south of Central park has the most expensive AirBnBs.
