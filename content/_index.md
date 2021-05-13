@@ -4,6 +4,7 @@
 
 AirBnB is an online platform that accommodate guests with short-term lodging options that is mainly provided by private hosts. AirBnB is mainly used by travellers when looking for homestay rentals for a vacation and was founded by Brian Chesky in August 2008. Since the incorporation, AirBnB has experienced an exponential growth and now accounts for upwards of 20% of the vacation rental industry as a whole.
 
+In this article, we will explore AirBnB data for New York City in 2019. We'll take a deeper 
 In New York City (NYC), more than 48.000 listings were available for rent in 2019. Listings range from a whole penthouse apartment with panorama view overlooking Central Park to a shared bedroom in Brooklyn and with the vast variety in accommodation options, NYC is set to fullfill the need of any traveller. As a tourist, it may be overwhelming to choose a place to stay in NYC as NYC is a very diverse city with 5 boroughs. Also, each borough contains serveral districts, each with their own charm and caracteristics. Should travellers choose to stay in the posh Manhattan, the hip Bronx or the cultural Brooklyn? And which characteristics defines each of these borough?
 
 We help answer this. Let us start out with some basic stats to outline some differences between the 5 boroughs. The listings are distributed as follow:
@@ -56,29 +57,20 @@ We help answer this. Let us start out with some basic stats to outline some diff
 
 One thing to notice is Manhattan and Brooklyn. Although Manhattan and Brooklyn make up 50% of the total population in NYC, they make up more than 85% of the total AirBnB listings. This indicate that these boroughs are attractive to tourists. Not surprisingly, because who wouldn't stay near the iconic Brooklyn Bridge or Times Square, dubbed 'the center of the world'?
 
-Looking at price differences visualised below, it is clear that Manhattan is also the most expensive borough, while Brooklyn follows approx. the same price pattern as the other boroughs.
+A violin plot is a great tool to visualize summary statistics, so let's compare some prices between the 5 boroughs.
 
 ![violinplots_boroughs](images/fig1.png)
+
+With out going into too many details of the violin plot, the white dot represents the median and the wider sections of the violin plot represent a higher probability that AirBnB listings of the borough will take on the given value.
+Looking at price differences visualised in a violin plot, it is clear that Manhattan is also the most expensive borough a median price of 130$ pr. night, while Brooklyn have a median of approx. 90$ follows approx. the same price pattern as the other boroughs.
 
 The majority of tourists associate with NYC with Manhattan, making the two almost synonymous. Manhattan also houses the most tourist attractions in NYC - Times Square, Central Park, Empire State Building, Wall Street, Statue of Liberty just to mention a few. Since Manhattan has the most AirBnB listings and a myriad of tourist attraction, it's a hotspot for tourism. 
 
 Let's take a deeper look into Manhattan.
 
-Manhattan also houses many neighbourhoods. Below is a map of Manhattan and where the 32 neighbourhoods are located.
-
-<iframe src="ny_map.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="500"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
-
-Ranging from Battery Park City in the very South to Marble Hill in the North, each neighbourhood has different characteristics regarding the price and availability of AirBnBs. 
+Manhattan also houses many neighbourhoods. Ranging from Battery Park City in the very South to Marble Hill in the North, each neighbourhood has different characteristics regarding the price and availability of AirBnBs. 
 
 The map below show the average rent price for AirBnBs in a given neighbourhood and by moving the mouse cursor over one the neighbourhood, more information such as the name of the neighbourhood and number of AirBnBs per square kilometre. 
-
 
 <iframe src="mymap.html"
     sandbox="allow-same-origin allow-scripts"
@@ -89,13 +81,17 @@ The map below show the average rent price for AirBnBs in a given neighbourhood a
     frameborder="0">
 </iframe>
 
-Neighbourhoods in the northern parts of Manhattan has lower average rent prices for AirBnBs, whereas neighbourhoods south of Central park has the most expensive AirBnBs. The histogram below show how Tribeca is significantly most expensive neighbourhood to rent an AirBnB in.
+From the map we see that neighbourhoods in the upper Manhattan has lower average rent prices for AirBnBs, whereas neighbourhoods in the lower Manhattan and around the Central park has the most expensive AirBnBs. But why though? 
+Looking at the neighborhoods that makes up the nothern part of Manhatten, the neighbourhood Harlem dominates. Harlem is formerly known as a ghetto and was back then a very poor and trobuled area with high crime rates. Today, Harlem has bloomed and the neighbourhood is today a very hip place with great vibes. But of course the area is still behind on some parameters compared to other neighbourhoods due to the history. 
+
+On the other side of the spectrum, Tribeca is to find. The histogram below show how Tribeca is significantly most expensive neighbourhood to rent an AirBnB in. If you wonder why there is a big uncoloured square in the middle, this is the iconic Central Park. Huge park, very great park, you should try it! 
 
 Mean prices 
-![price_ranges](images/mean_price.png)
+![price_ranges](images/fig4.png)
 
 Tribeca became an exclusive living area due to a substitution of industrial companies with artistic civilians during the 1960-70s. Today, Tribeca is known for it's many celebrities who recides in the neighbourhood and enjoy luxury living in relatively quieter sorroundings.
 
+Now we have had a small introduction to Manhattan. So witch AirBnB to choose? Below, all AirBnB locations is plotted to the map. By using the zoom-function, the map is able to provide the exact location, price pr. night and a small description of the AirBnB place. Try it and may you explore some hidden gems of AirBnB rentals!
 
 <iframe src="mapcluster_final1.html"
     sandbox="allow-same-origin allow-scripts"
@@ -105,3 +101,4 @@ Tribeca became an exclusive living area due to a substitution of industrial comp
     seamless="seamless"
     frameborder="0">
 </iframe>
+
