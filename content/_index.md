@@ -97,7 +97,7 @@ Mean prices
 Tribeca became an exclusive living area due to a substitution of industrial companies with artistic civilians during the 1960-70s. Today, Tribeca is known for it's many celebrities who recides in the neighbourhood and enjoy luxury living in relatively quieter sorroundings.
 
 
-<iframe src="mapcluster_final.html"
+<iframe src="mapcluster_final1.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
