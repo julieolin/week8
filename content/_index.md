@@ -72,9 +72,9 @@ Manhattan also houses many neighbourhoods. Below, a map of Manhattan and where t
     frameborder="0">
 </iframe>
 
-Mean prices 
+Mean prices of AirBnB listings pr. district
 ![price_ranges](images/fig2.png)
-
+We here see Tribeca in the lower Manhattan is defintely an expensive place  Tribeca and the area around 
 
 <iframe src="mymap.html"
     sandbox="allow-same-origin allow-scripts"
