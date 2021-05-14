@@ -90,11 +90,11 @@ On the other side of the spectrum in the lower Manhattan, Tribeca is to find. Th
 
 Tribeca became an exclusive living area due to a substitution of industrial companies with artistic civilians during the 1960-70s. Today, Tribeca is known for it's many celebrities who recides in the neighbourhood and enjoy luxury living in relatively quieter sorroundings.
 
-Prices pr. night is of course related to the type of rental. It is possible to rent either a full apartment, a private room or a shared room depending on your needs. Below, an interactive graph of the average prices on room types for each neighboirhood.
+Prices pr. night is of course related to the type of rental. It is possible to rent either a full apartment, a private room or a shared room depending on your needs. Below, an interactive graph of the average prices on room types for each neighbourhood.
 
 <iframe src="bokeh_plot.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="150%"
     height="500"
     scrolling="no"
     seamless="seamless"
