@@ -92,6 +92,15 @@ Tribeca became an exclusive living area due to a substitution of industrial comp
 
 Prices pr. night is of course related to the type of rental. It is possible to rent either a full apartment, a private room or a shared room depending on your needs. Below, an interactive graph of the average prices on room types for each neighboirhood.
 
+<iframe src="bokeh.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
 Now we have had a small introduction to Manhattan. So which AirBnB to choose? Below, all AirBnB locations is plotted to the map. By using the zoom-function, the map is able to provide the exact location, price pr. night and a small description of the AirBnB place. Try it and may you explore some hidden gems of AirBnB rentals!
 
 <iframe src="mapcluster_final1.html"
