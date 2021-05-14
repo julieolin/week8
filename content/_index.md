@@ -90,7 +90,7 @@ On the other side of the spectrum in the lower Manhattan, Tribeca is to find. Th
 
 Tribeca became an exclusive living area due to a substitution of industrial companies with artistic civilians during the 1960-70s. Today, Tribeca is known for it's many celebrities who recides in the neighbourhood and enjoy luxury living in relatively quieter sorroundings.
 
-Prices pr. night is of course related to the type of rental. It is possible to rent either a full apartment, a private room or a shared room depending on your needs. Below, an interactive graph of the average prices on room types for each neighbourhood.
+Prices pr. night is of course related to the type of rental. It is possible to rent either a full apartment, a private room or a shared room depending on your needs. Below, an interactive graph of the average prices on room types for each neighbourhood. 
 
 <iframe src="bokeh_plot.html"
     sandbox="allow-same-origin allow-scripts"
@@ -100,6 +100,8 @@ Prices pr. night is of course related to the type of rental. It is possible to r
     seamless="seamless"
     frameborder="0">
 </iframe>
+
+One thing to keep in mind here is that some areas have a very limited number of AirBnB listings - and the average prices shown above should therefore not be considered as general market prices. You may find better and cheaper alternatives than the listings on AirBnb!
 
 Now we have had a small introduction to Manhattan. So which AirBnB to choose? Below, all AirBnB locations is plotted to the map. By using the zoom-function, the map is able to provide the exact location, price pr. night and a small description of the AirBnB place. Try it and may you explore some hidden gems of AirBnB rentals!
 
