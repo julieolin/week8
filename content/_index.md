@@ -92,7 +92,7 @@ Tribeca became an exclusive living area due to a substitution of industrial comp
 
 Prices pr. night is of course related to the type of rental. It is possible to rent either a full apartment, a private room or a shared room depending on your needs. Below, an interactive graph of the average prices on room types for each neighboirhood.
 
-<iframe src="bokeh.html"
+<iframe src="bokeh_plot.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
