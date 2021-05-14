@@ -94,8 +94,8 @@ Prices pr. night is of course related to the type of rental. It is possible to r
 
 <iframe src="bokeh_plot.html"
     sandbox="allow-same-origin allow-scripts"
-    width="1000"
-    height="1000"
+    width="500"
+    height="600"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
