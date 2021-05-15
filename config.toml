@@ -17,7 +17,7 @@ math = true          # enable KaTeX (https://katex.org/) globally
   [params.footer]
     text = "Social Data Analysis 2021"
   [params.style]  # appearance options (can be omitted)
-    fontFamily = "Inconsolata"
+    fontFamily = "Calibri"
     pageWidth = "750px"
     avatarSize = "90px"
     colorBlack = "#222222"
