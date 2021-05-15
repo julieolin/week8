@@ -1,8 +1,21 @@
-# AirBnB in New York City
+# Where to stay in Manhattan?
 
-### By Julie Olin, Julian Skovhus & Mik Lokdam
+##### By Julie Olin, Julian Skovhus & Mik Lokdam
 
 #### Where should you rent an AirBnB in New York?
+
+Use this map to find out which neighbourhood to stay in at Manhattan. You can see information such as crime, noise and pricing! If you want to know more about exactly where to stay, keep reading!
+
+<iframe src="mapcluster_final1.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+##### Introducing AirBnB in New York
 
 AirBnB is an online platform that accommodate guests with short-term lodging options that is mainly provided by private hosts. AirBnB is mainly used by travellers when looking for homestay rentals for a vacation and today, AirBnB accounts for upwards of 20% of the vacation rental industry as a whole! 
 
