@@ -97,7 +97,7 @@ Let's take a deeper look into Manhattan.
 Manhattan also houses many neighbourhoods. Ranging from Battery Park City in the very South to Marble Hill in the North, each neighbourhood has different characteristics regarding the price and availability of AirBnBs. 
 <p>&nbsp;</p>
 The map below show the average rent price for AirBnBs in a given neighbourhood and by moving the mouse cursor over one the neighbourhood, more information such as the name of the neighbourhood and number of AirBnBs per square kilometre appears. You can also see the number of crime incidents, noise complaints and cafes in the area. 
-
+<p>&nbsp;</p>
 <iframe src="mymap.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -106,7 +106,7 @@ The map below show the average rent price for AirBnBs in a given neighbourhood a
     seamless="seamless"
     frameborder="0">
 </iframe>
-
+<p>&nbsp;</p>
 Note that some of the smaller neighbourhoods have been merged together. From the map we see that neighbourhoods in the upper Manhattan has lower average rent prices for AirBnBs, whereas neighbourhoods in the lower Manhattan and around the Central park has the most expensive rentals. But why though? 
 
 ###### Harlem Crime
@@ -127,7 +127,7 @@ Prices pr. night is of course related to the type of rental. It is possible to r
 <p>&nbsp;</p>
 Try out the interactive graph below to find the average prices of the different room types for each neighbourhood. Just click on your preferences in the right hand side!
 
-
+<p>&nbsp;</p>
 <iframe src="bokeh_plot.html"
     sandbox="allow-same-origin allow-scripts"
     width="675"
@@ -136,7 +136,7 @@ Try out the interactive graph below to find the average prices of the different 
     seamless="seamless"
     frameborder="0">
 </iframe>
-
+<p>&nbsp;</p>
 One thing to keep in mind here is that some areas have a very limited number of AirBnB listings - and the average prices shown above should therefore not be considered as general market prices. You may find better and cheaper alternatives than the listings on AirBnb!
 
 ###### What AirBnB for Me?
@@ -147,6 +147,7 @@ Below, all AirBnB locations is plotted to the map. By using the zoom-function, t
 <p>&nbsp;</p>
 Now, armed with your newly discovered information about the different neighbourhoods, you are ready to explore the hidden gems Manhattan has to offer!
 
+<p>&nbsp;</p>
 <iframe src="mapcluster_final1.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -156,3 +157,4 @@ Now, armed with your newly discovered information about the different neighbourh
     frameborder="0">
 </iframe>
 
+<p>&nbsp;</p>
