@@ -18,7 +18,7 @@ The map below shows different AirBnB listings in New York. By using the zoom-fun
 </iframe>
 <p>&nbsp;</p>
 Are you still confused about where you should stay? What's important when you travel - price, safety, noise, cafés? Then keep reading!
-
+<p>&nbsp;</p>
 ##### Introducing AirBnB in New York
 
 AirBnB is an online platform that accommodate guests with short-term lodging options that is mainly provided by private hosts. AirBnB is mainly used by travellers when looking for homestay rentals for a vacation and today, AirBnB accounts for upwards of 20% of the vacation rental industry as a whole! 
@@ -166,3 +166,5 @@ Now, armed with your newly discovered information about the different neighbourh
 </iframe>
 
 <p>&nbsp;</p>
+If we caught your attention and you would like to discover more, please see the underlying analysis in the Jupyter notebook 
+[here](http://google.com)
