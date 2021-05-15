@@ -168,4 +168,4 @@ Now, armed with your newly discovered information about the different neighbourh
 
 <p>&nbsp;</p>
 If we caught your attention and you would like to discover more, please see the underlying analysis in the Jupyter notebook 
-![here](https://nbviewer.jupyter.org/github/julieolin/week8/blob/main/Project_B_final.ipynb?flush_cache=true)
+<a href="https://nbviewer.jupyter.org/github/julieolin/week8/blob/main/Project_B_final.ipynb?flush_cache=true">here</a>.
