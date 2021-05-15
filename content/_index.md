@@ -33,9 +33,9 @@ Let's find out. We start out with some basic stats to outline some differences b
 <style type="text/css">
 .tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
-  font-family:Inconsolata , sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+  font-family: Calibri , sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
-  font-family:Inconsolata , sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+  font-family: Calibri , sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
