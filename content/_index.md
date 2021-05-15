@@ -7,18 +7,6 @@ AirBnB is an online platform that accommodate guests with short-term lodging opt
 
 In this article, we will explore AirBnB data for the specific area Manhattan of New York City to learn about the different areas. We'll take a deeper In New York City (NYC), more than 48.000 listings were available for rent in 2019. Listings range from a whole penthouse apartment with panorama view overlooking Central Park to a shared bedroom in Brooklyn and with the vast variety in accommodation options, NYC is set to fullfill the need of any traveller. As a tourist, it may be overwhelming to choose a place to stay in NYC as NYC is a very diverse city with 5 boroughs. Also, each borough contains serveral districts, each with their own charm and caracteristics. Should travellers choose to stay in the posh Manhattan, the hip Bronx or the cultural Brooklyn? And which characteristics defines each of these borough? Below, all AirBnB listings
 
-
-
-<iframe src="mapcluster_final1.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="500"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
-
-
 We help answer this. Let us start out with some basic stats to outline some differences between the 5 boroughs. The listings are distributed as follow:
 
 <style type="text/css">
@@ -117,4 +105,11 @@ One thing to keep in mind here is that some areas have a very limited number of 
 
 Now we have had a small introduction to Manhattan. So which AirBnB to choose? Below, all AirBnB locations is plotted to the map. By using the zoom-function, the map is able to provide the exact location, price pr. night and a small description of the AirBnB place. Also, clicking on the layer botton, you are able to sort in room types. Try it and may you explore some hidden gems of AirBnB rentals!
 
-
+<iframe src="mapcluster_final1.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
