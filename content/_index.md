@@ -6,7 +6,7 @@
 
 The map below shows different AirBnB listings in New York. By using the zoom-function, the map is able to provide the exact location, price pr. night and a small description of the AirBnB place. Also, clicking on the layer botton in the right hand corner, you are able to sort in room types.
 
-
+<p>&nbsp;</p>
 <iframe src="mapcluster_final1.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -15,13 +15,13 @@ The map below shows different AirBnB listings in New York. By using the zoom-fun
     seamless="seamless"
     frameborder="0">
 </iframe>
-
+<p>&nbsp;</p>
 Are you still confused about where you should stay? What's important when you travel - price, safety, noise, cafés? Then keep reading!
 
 ##### Introducing AirBnB in New York
 
 AirBnB is an online platform that accommodate guests with short-term lodging options that is mainly provided by private hosts. AirBnB is mainly used by travellers when looking for homestay rentals for a vacation and today, AirBnB accounts for upwards of 20% of the vacation rental industry as a whole! 
-<p>&nbsp;</p>
+
 In this article, we will explore AirBnBs and the characteristics of different neighbourhoods in New York. Whether you're looking for an expensive apartment, safe neighbourhood or quiet sorroundings, we have your back!
 
 ##### Would You Rather: Busy Manhattan, Hip Bronx or Cultural Brooklyn?
