@@ -2,6 +2,7 @@
 
 ##### By Julie Olin, Julian Skovhus & Mik Lokdam
 <p>&nbsp;</p>
+
 #### Where should you rent an AirBnB in New York?
 
 The map below shows different AirBnB listings in New York. By using the zoom-function, the map is able to provide the exact location, price pr. night and a small description of the AirBnB place. Also, clicking on the layer botton in the right hand corner, you are able to sort in room types.
@@ -24,6 +25,7 @@ AirBnB is an online platform that accommodate guests with short-term lodging opt
 
 In this article, we will explore AirBnBs and the characteristics of different neighbourhoods in New York. Whether you're looking for an expensive apartment, safe neighbourhood or quiet sorroundings, we have your back!
 <p>&nbsp;</p>
+
 ##### Would You Rather: Busy Manhattan, Hip Bronx or Cultural Brooklyn?
 
  New York City (NYC) had more than 48.000 listings available for rental in 2019. Listings range from a whole penthouse apartment with panorama view overlooking Central Park to a shared bedroom in Brooklyn and with the vast variety in accommodation options, NYC is set to fullfill the need of any traveller. As a tourist, it may be overwhelming to choose a place to stay in NYC as NYC is a very diverse city with 5 boroughs. Also, each borough contains serveral districts, each with their own charm and characteristics.
@@ -92,12 +94,14 @@ The majority of tourists associate with NYC with Manhattan, making the two almos
 <p>&nbsp;</p>
 Let's take a deeper look into Manhattan.
 <p>&nbsp;</p>
+
 ##### Manhattan - The Big Apple
 
 Manhattan also houses many neighbourhoods. Ranging from Battery Park City in the very South to Marble Hill in the North, each neighbourhood has different characteristics regarding the price and availability of AirBnBs. 
 <p>&nbsp;</p>
 The map below show the average rent price for AirBnBs in a given neighbourhood and by moving the mouse cursor over one the neighbourhood, more information such as the name of the neighbourhood and number of AirBnBs per square kilometre appears. You can also see the number of crime incidents, noise complaints and cafes in the area. 
 <p>&nbsp;</p>
+
 <iframe src="mymap.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -109,10 +113,12 @@ The map below show the average rent price for AirBnBs in a given neighbourhood a
 <p>&nbsp;</p>
 Note that some of the smaller neighbourhoods have been merged together. From the map we see that neighbourhoods in the upper Manhattan has lower average rent prices for AirBnBs, whereas neighbourhoods in the lower Manhattan and around the Central park has the most expensive rentals. But why though? 
 <p>&nbsp;</p>
+
 ###### Harlem Crime
 
 Looking at the neighborhoods that makes up the nothern part of Manhatten, the neighbourhood Harlem dominates. Harlem is formerly known as a ghetto and was back then a very poor and trobuled area with high crime rates. Today, Harlem has bloomed and the neighbourhood is today a very hip place with great vibes. But of course the area is still behind on some parameters compared to other neighbourhoods due to the history. 
 <p>&nbsp;</p>
+
 ###### Tribecian Celebreties
 
 On the other side of the spectrum in the lower Manhattan, Tribeca is to find. The histogram below show how Tribeca is significantly most expensive neighbourhood to rent an AirBnB in. 
@@ -121,6 +127,7 @@ On the other side of the spectrum in the lower Manhattan, Tribeca is to find. Th
 
 Tribeca became an exclusive living area due to a substitution of industrial companies with artistic civilians during the 1960-70s. Today, Tribeca is known for it's many celebrities who recides in the neighbourhood and enjoy luxury living in relatively quieter sorroundings.
 <p>&nbsp;</p>
+
 ###### Prices, prices, prices
 
 Prices pr. night is of course related to the type of rental. It is possible to rent either a full apartment, a private room or a shared room depending on your needs. 
@@ -139,6 +146,7 @@ Try out the interactive graph below to find the average prices of the different 
 <p>&nbsp;</p>
 One thing to keep in mind here is that some areas have a very limited number of AirBnB listings - and the average prices shown above should therefore not be considered as general market prices. You may find better and cheaper alternatives than the listings on AirBnb!
 <p>&nbsp;</p>
+
 ###### What AirBnB for Me?
 
 Now we have had a small introduction to Manhattan... so which AirBnB to choose? 
