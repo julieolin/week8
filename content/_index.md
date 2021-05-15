@@ -4,7 +4,7 @@
 
 #### Where should you rent an AirBnB in New York?
 
-Use this map to find out which neighbourhood to stay in at Manhattan. You can see information such as crime, noise and pricing! If you want to know more about exactly where to stay, keep reading!
+The map below shows different AirBnB listings in New York. By using the zoom-function, the map is able to provide the exact location, price pr. night and a small description of the AirBnB place. Also, clicking on the layer botton in the right hand corner, you are able to sort in room types.
 
 <iframe src="mapcluster_final1.html"
     sandbox="allow-same-origin allow-scripts"
@@ -14,6 +14,8 @@ Use this map to find out which neighbourhood to stay in at Manhattan. You can se
     seamless="seamless"
     frameborder="0">
 </iframe>
+
+Are you still confused about where you should stay? What's important when you travel - price, safety, noise, cafés? Then keep reading!
 
 ##### Introducing AirBnB in New York
 
@@ -148,10 +150,11 @@ One thing to keep in mind here is that some areas have a very limited number of 
 
 Now we have had a small introduction to Manhattan... so which AirBnB to choose? 
 
+
 Below, all AirBnB locations is plotted to the map. By using the zoom-function, the map is able to provide the exact location, price pr. night and a small description of the AirBnB place. Also, clicking on the layer botton in the right hand corner, you are able to sort in room types. 
 
 
-Try it and may you explore some hidden gems of AirBnB rentals!
+Now, armed with your newly discovered information about the different neighbourhoods, you are ready to explore the hidden gems Manhattan has to offer!
 
 <iframe src="mapcluster_final1.html"
     sandbox="allow-same-origin allow-scripts"
@@ -161,3 +164,4 @@ Try it and may you explore some hidden gems of AirBnB rentals!
     seamless="seamless"
     frameborder="0">
 </iframe>
+
